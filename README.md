@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Josua 👋  
 
-<!--
-**jojocuaa/jojocuaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🤖 AI Enthusiast | 📊 Data Science Learner  
 
-Here are some ideas to get you started:
+I'm passionate about **AI, Machine Learning, and Web Development**.  
+Here are some of my highlighted projects:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- [Sentiment Analysis with IBM Granite](https://github.com/jojocuaa/Sentiment-Analysis-with-IBM-Granite)  
+  Using IBM Granite LLM for sentiment classification on text data.  
+
+- [Sentiment Analysis](https://github.com/jojocuaa/Sentiment-Analysis)  
+  Traditional ML + NLP approach (Naive Bayes, TF-IDF).  
+
+- [Convolutional Neural Network](https://github.com/jojocuaa/Convolutional-Neural-Network)  
+  Deep learning CNN for image classification.  
+
+---
+
+### 📫 Connect with me
+- LinkedIn: [Josua Atmaja](https://www.linkedin.com/in/josua-atmaja-64634b132/))  
+- Email: josuaatmaja@gmail.com  
+
